@@ -1,0 +1,1 @@
+nm libdemodll.so 
